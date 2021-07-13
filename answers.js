@@ -53,3 +53,25 @@ let StudentList =[
       "location":"location 3"
       "favShows":["show111","show222"]
     }]
+
+
+//     Take it Easy
+
+
+// Make an array that holds all of the colors of the rainbow.
+const rainbow = ["violet","indigo","blue","green","yellow","orange","red"]
+
+// Write code that will access "blue" from the rainbow array.
+if(rainbow.includes("blue")){
+  console.log(rainbow.indexOf('blue'));
+}
+// Make an object that is called your name and holds the information about your favorite food, a hobby, the name of the town that you live in currently, and your favorite datatype.
+const neet = {
+  food:"TexMex",
+  hobby:"Wasting Time",
+  town:"austin",
+  datatype:"string"
+}
+
+// Write code that will access your hobby from the object that you just created.
+console.log(neet[hobby])
