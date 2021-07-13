@@ -74,4 +74,5 @@ const neet = {
 }
 
 // Write code that will access your hobby from the object that you just created.
-console.log(neet[hobby])
+console.log(neet['hobby'])
+console.log(neet.hobby)
