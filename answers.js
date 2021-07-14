@@ -124,7 +124,7 @@ console.log(crazyObject.larry.characters[1])
 crazyObject.larry.quotes.push( "I'm trying to elevate small talk to medium talk")
 console.log(crazyObject.larry.quotes[4])
 
-let inception = {
+const inception = {
    reality: {
        dreamLayer1: {
            dreamLayer2: {
