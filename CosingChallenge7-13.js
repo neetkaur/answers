@@ -198,13 +198,13 @@ console.log("Total Gross = "+ total)
 //find movie with that actor
 
 
-//BONUS
-const actorMovie = [{
-  "actor": String,
-  "Movie":Number
-}]
-
-bondFilms.forEach((item, i) => {
-actorMovie.actor= item.actor
-})
-console.log(actorMovie[0])
+// //BONUS
+// const actorMovie = [{
+//   "actor": String,
+//   "Movie":Number
+// }]
+//
+// bondFilms.forEach((item, i) => {
+// actorMovie.actor= item.actor
+// })
+// console.log(actorMovie[0])
